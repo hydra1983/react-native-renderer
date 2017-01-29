@@ -6,3 +6,5 @@ typings
 .DS_Store
 *.ngfactory.ts
 es6
+.vscode
+tsconfig.json
